@@ -76,7 +76,10 @@ As examples for the UK, here are some sample job postings including the type of 
 **Certifications and Standard Commonalities - UK**
 
 **CompTia Security**. CompTIA Security+ is the first security certification IT professionals should earn. It establishes the core knowledge required of any cybersecurity role and provides a springboard to intermediate-level cybersecurity jobs. The certification emphasizes the practical and hands-on ability to both identify and address security threats, attacks, and vulnerabilities. CompTIA Security+ is a globally trusted, vendor-neutral certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.
-**ISO27001**. ISO/IEC 27001 is an information security standard, part of the ISO/IEC 27000 family of standards, of which the last version was published in 2013, with a few minor updates since then.[1] It is published by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) under the joint ISO and IEC subcommittee, **ISO/IEC JTC 1/SC 27**  ISO/IEC 27001 specifies a management system that is intended to bring information security under management control and gives specific requirements. Organizations that meet the requirements may be certified by an accredited certification body following successful completion of an audit.
+
+**ISO27001**. ISO/IEC 27001 is an information security standard, part of the ISO/IEC 27000 family of standards, of which the last version was published in 2013, with a few minor updates since then.[1] It is published by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) under the joint ISO and IEC subcommittee. 
+
+**ISO/IEC JTC 1/SC 27**  ISO/IEC 27001 specifies a management system that is intended to bring information security under management control and gives specific requirements. Organizations that meet the requirements may be certified by an accredited certification body following successful completion of an audit.
 
 
 
